@@ -49,7 +49,11 @@ Projeto HAPPY 2.0 - Update
 
 ## DASHBOARD - Excluir Orfanato
 
-![Remove Orphanage](https://i.imgur.com/ACs44PA.png)
+![Remove Orphanage](https://i.imgur.com/1bqibwC.png)
+
+## DASHBOARD - Aprovar Orfanatos
+
+![Approve Orphanage](https://i.imgur.com/ACs44PA.png)
 
 ## INSTALAÇÃO
 
