@@ -5,7 +5,7 @@ Projeto HAPPY 2.0 - Update
 ## UPDATES
 
 1. Cadastro
-2. Login
+2. Login(JWT e bcrypt)
 3. Dashboard
 4. Ver orfanatos
 5. Confirmar Orfanatos
