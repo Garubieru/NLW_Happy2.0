@@ -68,6 +68,8 @@ REACT_APP_MAPBOX_TOKEN(Seu token gerado pelo mabpox em: https://www.mapbox.com/)
 
 No backend, crie um arquivo .env e crie uma variável com o nome JWT_SECRET e insira seu secret.
 
+**OBS: CRIE UM NOVO CADASTRO**
+
 ## EXECUTANDO A APLICAÇÃO
 
 No backend execute:
